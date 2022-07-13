@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/help.png</file>
+        <file>res/exitBtn.png</file>
+        <file>res/startBtn.png</file>
+        <file>res/customBtn.png</file>
+        <file>res/boxBtn.png</file>
+        <file>res/checkBtn.png</file>
+        <file>res/playerBtn.png</file>
+        <file>res/resetBtn.png</file>
+        <file>res/targetBtn.png</file>
+        <file>res/wallBtn.png</file>
+        <file>res/levelBtn.png</file>
+        <file>res/Box.png</file>
+        <file>res/Empty.png</file>
+        <file>res/Intarget.png</file>
+        <file>res/Player_down.png</file>
+        <file>res/Player_left.png</file>
+        <file>res/Player_right.png</file>
+        <file>res/Player_up.png</file>
+        <file>res/Target.png</file>
+        <file>res/Wall.png</file>
+        <file>res/Background.png</file>
+        <file>res/Background2.png</file>
+        <file>res/congrat.png</file>
+        <file>res/BGM.wav</file>
+    </qresource>
+</RCC>
