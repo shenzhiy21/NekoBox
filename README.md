@@ -15,4 +15,4 @@ What's more, there are interesting things that have been added to my game:
 ## More to Explain
 This game is actually the assignment for the course "Object-oriented Programming" by Prof. Junhai Yong.
 
-Sokolution, an artificial intelligence for the game, is not included in this repo, because of some unexpected bug after an overall test. However, I have no time to fix the problem now. If you have any idea, feel free to contact me!
+Sokolution, an artificial intelligence for the game (mentioned in `docs`), is not included in this repo, because of some unexpected bug after an overall test. However, I have no time to fix the problem now. If you have any idea, feel free to contact me!
